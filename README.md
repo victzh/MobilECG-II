@@ -23,10 +23,11 @@ MobilECG II
 
 How to get one?
 ---------------
-
+<s>
 MobilECG is not publicly available yet. In order to sell a medical device, certification is needed. We are working hard to bring MobilECG to the users as soon as possible.
 
 However you can still build one yourself. If you want to build it, feel free to do so. Contact us in case of any problems. There will be soon a technical blog where you will be able to find instructions on bulding one yourself.
+</s>
 
 Compatibility
 -------------
@@ -35,11 +36,12 @@ The whole project is built using free or open source tools. The hardware is desi
 
 How to support us?
 ------------------
-
+<s>
 If you know a doctor or someone with a heart condition, please let them know about our project. Their subscription will help us find investment.
 
 If you are a business angel or an investor, please contact us.
-
+</s>
+  
 License
 -------
 
