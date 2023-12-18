@@ -125,7 +125,7 @@
 	LD_FLAGS	+= -fno-exceptions -fno-rtti	
 	LD_FLAGS	+= -Wl,--gc-sections
 	LD_FLAGS	+= -T$(LD_SCRIPT)
-	LD_FLAGS    += -specs=nosys.specs
+	LD_FLAGS    += -specs=nosys.specs -specs=nano.specs
 	
 
 
